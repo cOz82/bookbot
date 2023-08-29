@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first git project! (OZ)
+BookBot is my first git project!
